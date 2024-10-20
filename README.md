@@ -20,8 +20,8 @@ Once we have this data in dataframes we need to first check and then clean the d
 Step3.
 Add these cleaned data sets to table.
 
-Step4
+Step4. Create output tables
 Create the enriched_orders table by combining the data between orders, customer and product datasets. Once we have this dataset we can also create profit_aggregate table as per given logic.
 
-Step 5.
+Step 5. Generate reports
 Use the profit aggregate table to display reports.
