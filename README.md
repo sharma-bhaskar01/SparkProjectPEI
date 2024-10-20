@@ -18,6 +18,11 @@ Create the enriched_orders table by combining the data between orders, customer 
 Step 5. Generate reports
 Use the profit aggregate table to display reports.
 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Assignment coding styles :
+
 There are two approaches to code this assignment to get the results.
 1. Create a package using python files which can be pushed to DBFS and then later can be used to generate result.
 2. We can directly write all the functions and SQL code in databricks notebook to generate the results.
