@@ -2,6 +2,7 @@
 PEI assessment task for data engineering role.
 
 The basic approch for this assignment is as follows.
+
 Step1. Extract data from various sources:
 Read the data from Order.json, Customer.xlsx, Product.csv using spark.read function. In case of xlsx file we need to install com.crealytics.spark.excel package to fetch this data without any hassels.
 
